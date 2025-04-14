@@ -84,7 +84,7 @@ MIT License - See [LICENSE](./LICENSE) for details.
 
 ## Acknowledgments
 - DementiaBank Pitt Corpus for audio data.
-- xAI and various open-source libraries for enabling this project.
+
 
 ## Contact
 For questions or collaboration, reach out to varshith.gaddam@example.com or open an issue on this repository.
